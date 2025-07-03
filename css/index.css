@@ -1,0 +1,222 @@
+body {
+    background-color: #E5E1DA;
+}
+
+.menu {
+position: absolute;
+top: 25px;
+right:50px;
+}
+
+.bot {
+    margin-right: 20px;
+}
+
+.name {
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.chapca {
+    background-color: #6D9EA3;
+}
+
+.citata {
+    padding: 15px;
+    height: 60px;
+    width: 400px;
+    position: absolute;
+    right: 50px;
+    background-color: #89A8B2;
+}
+
+aside {
+    padding: 10px;
+    width: 180px; 
+    background-color: #6D9EA3;
+    position: sticky;
+    top: 50px;
+}
+
+.bg_for_rezume {
+    background-color: blanchedalmond;
+    padding: 10px;
+    padding-bottom: 60px;
+}
+
+.work_in_rada_bg {
+    background-color: rgb(159, 120, 61);
+    padding: 10px;
+    padding-bottom: 30px;
+}
+
+.news_bg {
+    background-color: rgb(220, 196, 160);
+    padding: 10px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+}
+ 
+.inform {
+    position: relative;
+    top: -340px;
+    width: 80%;
+    margin-left: auto;
+    padding: 10px;
+    background-color: rgb(185, 163, 130);
+}
+
+h2 {
+    padding-left: 40px;
+    border: 2px;
+    border-color: black;
+}
+
+.about_diputat {
+    width: 400px;
+    padding: 50px;
+    padding-top: 20px;
+    margin-left: auto;
+    background-color: antiquewhite;
+}
+
+.photo_1 {
+    position: absolute;
+    width: 350px;
+    height: auto;
+    top: 90px;
+    padding-left: 60px;
+}
+
+.score_in_rada {
+    width: 30%;
+    background-color: rgb(168, 110, 33);
+    padding: 20px;
+    padding-left: 30px;
+    margin-left: 40px;
+}
+
+.news_in_center {
+    position: relative;
+    width: 480px;
+    right: -460px;
+    padding: 40px;
+    padding-right:10px;
+    background-color: aquamarine;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.photo_2 {
+    position: absolute;
+    width: 350px;
+    height: auto;
+    top: 940;
+    left: 50px;
+}
+
+.sponsor_page {
+    background-color: aquamarine;
+    padding-top: -10px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.text_to_donate_and_news {
+    width: 600px;
+}
+
+.button_donate_and_news {
+    position: absolute;
+    right: 60px;
+}
+
+.hard_diputat_work {
+    background-color: aquamarine;
+}
+
+.hard_diputat_work_text {
+    width: 400px;
+    padding: 40px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+}
+
+.photo_3 {
+    position: absolute;
+    width: 300px;
+    right: 80px;
+    top: 1630px;
+}
+
+.after_one_year {
+    background-color: rgb(122, 94, 58);
+    padding-bottom: 20px;
+}
+
+.after_one_year_score {
+    background-color: antiquewhite;
+    padding: 30px;
+    width: 400px; 
+    margin: 30px;
+}
+
+.photo_4 {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.hous_of_diputat {
+    background-color: aquamarine;
+    padding-bottom: 20px;
+}
+
+.hous_of_diputat_text {
+    background-color: antiquewhite;
+    padding-inline: 20px;
+    padding-block: 10px;
+    margin: 20px;
+    width: 600px;
+}
+
+.pro_manager_of_marketing {
+    background-color: rgb(222, 182, 63);
+    padding-bottom: 20px;
+}
+
+.text_style {
+    background-color: aquamarine;
+    padding: 10px;
+    width: 520px;
+    margin-left: 100px;
+}
+
+.ol_style_of_pro_manager {
+    background-color: aliceblue;
+    padding: 20px;
+    width: 400px;
+    margin-left: 200px;
+}
+
+.one_dey_in_life {
+    background-color: azure;
+    padding-bottom: 20px;
+}
+
+.one_dey_in_life_style {
+    background-color: beige;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+.the_video {
+    background-color: brown;
+    padding: 10px;
+}
+
+footer {
+    background-color: antiquewhite;
+    padding: 50px;
+}

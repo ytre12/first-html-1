@@ -1,0 +1,35 @@
+body {
+    background-color: #C6E7FF;
+}
+
+.menu_of_navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 3vh;
+    gap: 5vw;
+    background-color: #FFDDAE;
+}
+
+.the_citata {
+    display: flex;
+    flex-direction: column;
+    padding: 2vw;
+    margin: 2vh;
+    background-color: #D4F6FF;
+}
+
+.flex-column {
+    padding: 2vw;
+    margin-left: 3vw;
+    background-color: #FFDDAE;
+}
+
+.obj-column {
+    padding: 2vh;
+    background-color: #C6E7FF;
+    margin: 2vh;
+    padding-left: 3vw;
+    padding-bottom: 2vw;
+}
+

@@ -1,0 +1,46 @@
+body {
+    background-color: #EEEFE0;
+}
+
+.menu_of_navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10vh;
+    background-color: #A7C1A8;
+    padding: 3vh
+}
+
+.the_text_of_info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flex-the_text_of_info {
+    width: 60vw;
+    justify-content: end;
+    align-items: end;
+    padding: 10px;
+    background-color: #A7C1A8;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-house {
+    width: 450px;
+    height: 600px;
+    background-color: #D1D8BE;
+    margin: 20px;
+    padding: 10px;
+    padding-left: 30px;
+}
+
+.iamge {
+    width: 350px;
+}
