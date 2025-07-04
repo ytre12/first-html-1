@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Montserrat";
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 4vh;
+    gap: 2vw;
+    margin-inline: 2vw;
+    /* align-items: baseline; */
+}
+
+.cofe-logo {
+    margin-inline-end: 28vw;
+}
+
+.href-style {
+    text-decoration: solid;
+    color: black;
+    margin-top: 1.5vh;
+}
+
+.btn-exit {
+    border-radius: 18px;
+    padding: 10px;
+    padding-inline: 25px;
+    background-color: #3C6BFF;
+    color: white;
+    border-style: none;
+}
+
+.flex-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+    margin-inline: 8%;
+    
+}
+
+.image {
+    max-height: 400px;
+}
+
+.style_text_q {
+    margin-bottom: -20px;
+    color: #3C6BFF;
+}
+
+.normal_text {
+    max-width: 450px;
+}
+
+.btn-see-catalog {
+    background-color: #FF9900;
+    color: white;
+    border-radius: 20px;
+    border-style: none;
+    padding-block: 13px;
+    padding-inline: 25px;
+}
+
+.svg_image {
+    position: absolute;
+    right: 25%;
+}
+
+.svg_image_1 {
+    position: absolute;
+    right: 41%;
+    top: 28%;
+}
+
+.svg_image_2 {
+    position: absolute;
+    right: 8%;
+    top: 30%;
+}
