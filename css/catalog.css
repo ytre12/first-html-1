@@ -1,0 +1,313 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Montserrat";
+}
+
+.flex-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-inline: 7%;
+    gap: 3vw;
+    padding: 4vh;
+    padding-bottom: 5vh;
+}
+.svg_image {
+    margin-right: 35%;   
+}
+
+.href-style {
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.img_for_bg {
+    z-index: -1;
+    position: absolute;
+    min-width: 99%;
+    max-width: 99%;
+}
+
+.flex-pres {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin: 8vw;
+    margin-top: 25vh;
+}
+
+.presintation {
+    background-color: #DFE9F4;
+    padding: 40px;
+    padding-right: 120px;
+    padding-bottom: 60px;
+    border-radius: 25px;
+    max-width: 50%;
+}
+
+.pres-p {
+    max-width: 450px;
+}
+
+.pres-h1 {
+    max-width: 300px;
+    color: #054C73;
+}
+
+.pres-h5 {
+    margin-bottom: -2.5svh;
+}
+
+.bay-btn {
+    margin-top: 15px;
+    background-color: #054C73;
+    color: white;
+    font-size: 16px;
+    padding-inline: 50px;
+    padding-block: 14px;
+    border-radius: 30px;
+    border-style: none;
+}
+
+.flex-poslugy {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #F2F5FF;
+    margin-top: 10%;
+    padding-block: 7vh;
+    padding-inline: 3vw;
+}
+
+.flex-svg {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vw;
+}
+
+.poslugi-p {
+    margin-top: -13px;
+    font-size: 12px;
+}
+
+.poslugi-h2 {
+    font-weight: 600;
+    font-size: 17px;   
+}
+
+.flex-text-to-img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5%;
+}
+
+.flex-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3%;
+    margin-block: 7%;
+}
+
+.img_for-text-to-img {
+    margin-top: -40px;
+    margin-bottom: 40px;
+}
+
+.flex-text-h2 {
+    margin-bottom: 3px;
+}
+
+
+.flex-the-wommen  {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #F2F5FF;
+    gap: 13%;
+    padding-block: 40px;
+}
+
+.the-womman-image {
+    max-height: 40vw;
+}
+
+.flex-item-p {
+    max-width: 500px;
+}
+
+.the-reweiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.the-reweiv-img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-inline: 5vw;
+}
+
+.image_of_rum_position {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
+
+.text_of_rum_position {
+    font-size: 28;
+    font-weight: 600;
+}
+
+.font-seting {
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+
+.the-order-y {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.the-order-x {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    margin-inline: 9vw;
+}
+
+.img-the-order {
+    width: 350px;
+    margin: 0;
+}
+
+.max-bloc-const {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 350px;
+    text-align: center;
+}
+
+.number-order {
+    color: white;
+    background-color: black;
+    border: 10px solid white; 
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-top: 330px;
+}
+
+.order-text {
+    font-size: 17px;
+    margin-top: 50px;
+    margin-bottom: -5px;
+}
+
+.the-order-p {
+    margin-top: -10px;
+    margin-bottom: 45px;
+    font-size: 13px;
+}
+
+.order-p {
+    margin-bottom: 45px;
+    font-size: 13px;
+}
+
+/* From Uiverse.io by alexruix */ 
+.input {
+  max-width: 190px;
+  background-color: #03344F;
+  color: #ffffff;
+  padding: .15rem .5rem;
+  min-height: 40px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  line-height: 1.15;
+  box-shadow: 0px 10px 20px -18px;
+}
+
+input:focus {
+  border-bottom: 2px solid #ffffff;
+  border-radius: 4px 4px 2px 2px;
+}
+
+input:hover {
+  outline: 1px solid lightgrey;
+}
+
+.call-to-team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F2F5FF;
+    padding: 40px;
+}
+
+.call-to-team-p {
+    padding-bottom: 30px;
+    font-size: 13px;
+    text-align: center;
+    max-width: 500px;
+}
+
+.send-btn {
+    padding-inline: 24px;
+    padding-block: 12px;
+    border-radius: 12px;
+    border-style: none;
+    color: white;
+    background-color: #03344F;
+}
+
+.the-end-x {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #03344F;
+}
+
+.the-end-y {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.order-p-end {
+    font-size: 13px;
+    max-width: 350px;
+    color: white;
+}
+
+.end-h2 {
+    color: white;
+}
+
+.the-end-x-img {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
